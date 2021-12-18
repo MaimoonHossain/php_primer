@@ -24,7 +24,7 @@
     ?>
     <button class="btn btn-dark">CLICK ME!</button>
     <button class="btn btn-primary">CLICK ME!</button>
-    <button class="btn btn-success">CLICK ME!</button>
+    
     <?php
      require 'includes/footer.php';
      // if page is not found..the rest of the page crashes
